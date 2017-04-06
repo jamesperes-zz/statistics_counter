@@ -7,4 +7,4 @@ def count(num):
         print("Oops!  That was no valid number.  Try again...")
         
     case_for_mouth = (number / 30)
-    return number
+    return case_for_mouth
